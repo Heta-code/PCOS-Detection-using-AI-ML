@@ -17,7 +17,7 @@ So, now I again perfomed Random forest classifier model using Confusion matrix a
 The confusion matrix is used to determine the performance of the classification models for our used datset.
 So, through ROC Curve we test our target variable which is PCOS(Y/N) AND it gives us 
 the area under the ROC curve gives an idea about the benefit of using the test(PCOS(Y/N) in this project. I used ROC Curve to find the best cutoff value to predict whether a new observation is a "failure" (0) or a "success" (1).
-So, now we pedicted the Disease of a PCOS for a gievn dataset using Machine Learing(means using classification and Linear regression models).
+So, now we pedicted the Disease of a PCOS for a given dataset using Machine Learing(means using classification and Linear regression models).
 
 Using Visulization we ploted the graph using seaborn and predicted PCOS for the given medical va;lues of individual person.
 <img src="index.png"/>

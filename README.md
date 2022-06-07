@@ -21,5 +21,5 @@ So, now we pedicted the Disease of a PCOS for a gievn dataset using Machine Lear
 
 Using Visulization we ploted the graph using seaborn and predicted PCOS for the given medical va;lues of individual person.
 <img src="index.png"/>
-This Shoes the ROC Curve which gives cutoff values for given obsevations for failure(0) and succes(1).
+This Shows the ROC Curve which gives cutoff values for given obsevations for failure(0) and succes(1).
 <img src="index1.png"/>
